@@ -3,3 +3,5 @@ __pycache__/
 .idea/
 .vscode/
 *.zip
+.qt_for_python/
+*.bak
