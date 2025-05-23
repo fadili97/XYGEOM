@@ -1,0 +1,36 @@
+[general]
+name=CoordToGeom Enhanced
+qgisMinimumVersion=3.0
+description=Create geometries from coordinates with enhanced features
+version=2.0
+author=ELFADILY GEOCONSEIL
+email=elfadily.igt@gmail.com
+
+about=This plugin helps create geometries (points, lines, polygons) from coordinates with enhanced features:
+    - Manual coordinate input or file import (TXT/CSV)
+    - Support for various coordinate formats (space, comma, tab separated)
+    - Support for coordinates with IDs (B X Y format)
+    - Create new layers or add to existing ones
+    - Custom attribute table structure
+    - Preview functionality
+    - Better error handling and logging
+
+tracker=http://github.com/yourusername/CoordToGeom/issues
+repository=http://github.com/yourusername/CoordToGeom
+hasProcessingProvider=no
+tags=coordinates,geometry,digitizing,vector,import,csv,txt
+homepage=http://github.com/yourusername/CoordToGeom
+category=Vector
+icon=icons/icon.png
+experimental=False
+deprecated=False
+changelog=2.0
+    - Complete UI/UX redesign with tabbed interface
+    - Added file import functionality
+    - Support for multiple coordinate formats
+    - Ability to add geometries to existing layers
+    - Custom attribute table management
+    - Enhanced error handling and logging
+    - Preview functionality
+    1.0
+    - Initial release
