@@ -4,7 +4,7 @@ qgisMinimumVersion=3.0
 description=Create geometries from coordinates with enhanced features
 version=2.0
 author=ELFADILY GEOCONSEIL
-email=elfadily.igt@gmail.com
+email=contact@elfadilygeoconseil.com
 
 about=This plugin helps create geometries (points, lines, polygons) from coordinates with enhanced features:
     - Manual coordinate input or file import (TXT/CSV)
